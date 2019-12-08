@@ -35,3 +35,13 @@
     background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../img/company.jpg);
     background-blend-mode: saturation;
 }
+
+.ai {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../img/cgiLandscape.png);
+    background-blend-mode: saturation;
+}
+
+.cairn {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../img/rainwindow.jpg);
+    background-blend-mode: saturation;
+}
