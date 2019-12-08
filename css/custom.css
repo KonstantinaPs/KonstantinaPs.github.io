@@ -5,3 +5,9 @@
 .bg-secondary {
     background-color: #ecb807!important;
 }
+
+.equidistant {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
