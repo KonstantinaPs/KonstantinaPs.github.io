@@ -11,3 +11,22 @@
     flex-direction: column;
     justify-content: space-between;
 }
+
+.image_title {
+    text-align: center;
+    color: white;
+    background-image: url("../img/visualisation.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: bottom;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    min-height: 700px;
+}
+
+.portfolio_headers {
+    text-align: center;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(29, 128, 159, 1) 50%, rgba(255, 255, 255, 0) 100%);
+}
